@@ -61,8 +61,16 @@ Progetto: Facial Emotion Detection via CNN & ViT
 - Due livelli: CNN + XGBoost, miglioramento performance su immagini dermoscopiche  
 
 **Financial Risk Modeling**  
-- Simulazioni Monte Carlo, modelli copula, previsioni ML su default e performance energetica  
+- Simulazioni Monte Carlo per stimare rendimenti e rischi di portafogli d’investimento [Financial Risk Modeling](https://github.com/faberBI/Finedu-webapp)
 
+- **Capex Risk Modeling**  
+- Simulazioni Monte Carlo per stima quantitativa dei rischi su progetti di investimento [Capex Risk Modeling](https://github.com/faberBI/Capex_Monte-Carlo)
+
+- **EDA & Automated Machine Learning**  
+- EDA & addestramentro modelli di Machine Learning automatico e in modo interattivo [EDA & Automated Machine Learning](https://github.com/faberBI/EDA)
+
+- **Osservatorio Immobiliare Italiano Analysis**
+- Analisi dei valori immobiliari con aggiornamento delle geometrie delle zone OMI in python [Osservatorio Immobiliare Italiano Analysis](https://github.com/faberBI/OMI-analysis)
 ---
 
 ## 📝 Pubblicazioni selezionate
