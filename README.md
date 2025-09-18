@@ -89,7 +89,3 @@ Progetto: Facial Emotion Detection via CNN & ViT
 
 ---
 
-## 📊 Statistiche GitHub
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=FabrizioDiSciorio&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FabrizioDiSciorio&layout=compact&theme=radical)
