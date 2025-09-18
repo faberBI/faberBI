@@ -60,23 +60,22 @@ Progetto: Facial Emotion Detection via CNN & ViT
 **Melanoma Detection – Ensemble Stacking**  
 - Due livelli: CNN + XGBoost, miglioramento performance su immagini dermoscopiche  
 
-**Financial Risk Modeling**  
-- Simulazioni Monte Carlo per stimare rendimenti e rischi di portafogli d’investimento [Financial Risk Modeling](https://github.com/faberBI/Finedu-webapp)
+**[Financial Risk Modeling](https://github.com/faberBI/Finedu-webapp)**
+- Simulazioni Monte Carlo per stimare rendimenti e rischi di portafogli d’investimento
 
-- **Capex Risk Modeling**  
-- Simulazioni Monte Carlo per stima quantitativa dei rischi su progetti di investimento [Capex Risk Modeling](https://github.com/faberBI/Capex_Monte-Carlo)
+- **[Capex Risk Modeling](https://github.com/faberBI/Capex_Monte-Carlo)**  
+- Simulazioni Monte Carlo per stima quantitativa dei rischi su progetti di investimento
 
-- **EDA & Automated Machine Learning**  
-- EDA & addestramentro modelli di Machine Learning automatico e in modo interattivo [EDA & Automated Machine Learning](https://github.com/faberBI/EDA)
+- **[EDA & Automated Machine Learning](https://github.com/faberBI/EDA)**  
+- EDA & addestramentro modelli di Machine Learning automatico e in modo interattivo
 
-- **Osservatorio Immobiliare Italiano Analysis**
-- Analisi dei valori immobiliari con aggiornamento delle geometrie delle zone OMI in python [Osservatorio Immobiliare Italiano Analysis](https://github.com/faberBI/OMI-analysis)
----
+- **[Osservatorio Immobiliare Italiano Analysis](https://github.com/faberBI/OMI-analysis)**
+- Analisi dei valori immobiliari con aggiornamento delle geometrie delle zone OMI in python
 
 ## 📝 Pubblicazioni selezionate
 
-- *A composite index for measuring stock market inefficiency* – Complexity, 2022  
-- *Option pricing under multifractional process and long-range dependence* – Fluctuation and Noise Letters, 2021  
+- *[A composite index for measuring stock market inefficiency](https://scholar.google.com/citations?view_op=view_citation&hl=it&user=KrCXe-4AAAAJ&citation_for_view=KrCXe-4AAAAJ:u5HHmVD_uO8C)* – Complexity, 2022  
+- Option pricing under multifractional process and long-range dependence* – Fluctuation and Noise Letters, 2021  
 - *Forecasting VIX with Hurst exponent* – Methods and Applications in Fluorescence, 2022  
 
 ---
