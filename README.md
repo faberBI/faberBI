@@ -77,7 +77,8 @@ Progetto: Facial Emotion Detection via CNN & ViT
 
 - Email: [fabrizio.disciorio@gmail.com](mailto:fabrizio.disciorio@gmail.com)  
 - LinkedIn: [Fabrizio Di Sciorio](https://www.linkedin.com/in/fabriziodisciorio/)  
-- GitHub: [FabrizioDiSciorio](https://github.com/FabrizioDiSciorio)  
+- GitHub: [FabrizioDiSciorio](https://github.com/FabrizioDiSciorio)
+- Google Scholar: [FabrizioDiSciorio]([https://github.com/FabrizioDiSciorio](https://scholar.google.com/citations?user=KrCXe-4AAAAJ&hl=it))
 
 ---
 
