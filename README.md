@@ -75,8 +75,8 @@ Progetto: Facial Emotion Detection via CNN & ViT
 ## 📝 Pubblicazioni selezionate
 
 - *[A composite index for measuring stock market inefficiency](https://scholar.google.com/citations?view_op=view_citation&hl=it&user=KrCXe-4AAAAJ&citation_for_view=KrCXe-4AAAAJ:u5HHmVD_uO8C)* – Complexity, 2022  
-- Option pricing under multifractional process and long-range dependence* – Fluctuation and Noise Letters, 2021  
-- *Forecasting VIX with Hurst exponent* – Methods and Applications in Fluorescence, 2022  
+- *[Option pricing under multifractional process and long-range dependence](https://scholar.google.com/citations?view_op=view_citation&hl=it&user=KrCXe-4AAAAJ&citation_for_view=KrCXe-4AAAAJ:IjCSPb-OGe4C)* – Fluctuation and Noise Letters, 2021  
+- *[Forecasting VIX with Hurst exponent](https://scholar.google.com/citations?view_op=view_citation&hl=it&user=KrCXe-4AAAAJ&citation_for_view=KrCXe-4AAAAJ:qjMakFHDy7sC)* – Methods and Applications in Fluorescence, 2022  
 
 ---
 
