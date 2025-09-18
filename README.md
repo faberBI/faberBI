@@ -55,22 +55,22 @@ Progetto: Facial Emotion Detection via CNN & ViT
 ## 🏗 Progetti principali
 
 - **Facial Emotion Detection**  
-- CNN per classificazione delle emozioni facciali (accuratezza 77%)  
+  CNN per classificazione delle emozioni facciali (accuratezza 77%)  
 
 - **Melanoma Detection – Ensemble Stacking**  
-- Ensemble stacking model: CNNs + XGBoost, miglioramento performance su immagini dermoscopiche  
+  Ensemble stacking model: CNNs + XGBoost, miglioramento performance su immagini dermoscopiche  
 
 - **[Financial Risk Modeling](https://github.com/faberBI/Finedu-webapp)**
 - Simulazioni Monte Carlo per stimare rendimenti e rischi di portafogli d’investimento
 
 - **[Capex Risk Modeling](https://github.com/faberBI/Capex_Monte-Carlo)**  
-- Simulazioni Monte Carlo per stima quantitativa dei rischi su progetti di investimento
+  Simulazioni Monte Carlo per stima quantitativa dei rischi su progetti di investimento
 
 - **[EDA & Automated Machine Learning](https://github.com/faberBI/EDA)**  
-- EDA & addestramentro modelli di Machine Learning automatico e in modo interattivo
+  EDA & addestramentro modelli di Machine Learning automatico e in modo interattivo
 
 - **[Osservatorio Immobiliare Italiano Analysis](https://github.com/faberBI/OMI-analysis)**
-- Analisi dei valori immobiliari con aggiornamento delle geometrie delle zone OMI in python
+  Analisi dei valori immobiliari con aggiornamento delle geometrie delle zone OMI in python
 
 ## 📝 Pubblicazioni selezionate
 
