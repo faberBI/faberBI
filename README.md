@@ -61,7 +61,7 @@ Progetto: Facial Emotion Detection via CNN & ViT
   Ensemble stacking model: CNNs + XGBoost, miglioramento performance su immagini dermoscopiche  
 
 - **[Financial Risk Modeling](https://github.com/faberBI/Finedu-webapp)**
-- Simulazioni Monte Carlo per stimare rendimenti e rischi di portafogli d’investimento
+  Simulazioni Monte Carlo per stimare rendimenti e rischi di portafogli d’investimento custom
 
 - **[Capex Risk Modeling](https://github.com/faberBI/Capex_Monte-Carlo)**  
   Simulazioni Monte Carlo per stima quantitativa dei rischi su progetti di investimento
