@@ -72,6 +72,9 @@ Progetto: Facial Emotion Detection via CNN & ViT
 - **[Osservatorio Immobiliare Italiano Analysis](https://github.com/faberBI/OMI-analysis)**
   Analisi dei valori immobiliari con aggiornamento delle geometrie delle zone OMI in python
 
+  - **[Stima deii danni economici attesi a beni immobili esposti a rischi fisici naturali]([https://github.com/faberBI/OMI-analysis](https://github.com/faberBI/Physical-Risk-Damage-Estimation))**
+  Analisi dei rischi fisici (frane, idrico, sismico, tempeste), utilizzando un approccio basato su copula multivariata
+
 ## 📝 Pubblicazioni selezionate
 
 - *[A composite index for measuring stock market inefficiency](https://scholar.google.com/citations?view_op=view_citation&hl=it&user=KrCXe-4AAAAJ&citation_for_view=KrCXe-4AAAAJ:u5HHmVD_uO8C)* – Complexity, 2022  
