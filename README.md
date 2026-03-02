@@ -1,7 +1,5 @@
-Ecco la versione **completamente in inglese**, mantenendo uno stile professionale e naturale per CV / GitHub / LinkedIn:
 
 ---
-
 # 👋 Hi, I'm Fabrizio Di Sciorio, PhD
 
 💻 **Applied Data Scientist | PhD in Quantitative Methods for Economics**
