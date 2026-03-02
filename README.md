@@ -1,94 +1,105 @@
-# 👋 Ciao, sono Fabrizio Di Sciorio, PhD
-
-💻 **Applied Data Scientist | PhD in Quantitative Methods for Economics**  
-📍 Roma, Italia | 🚴‍♂️ Cyclist  
+Ecco la versione **completamente in inglese**, mantenendo uno stile professionale e naturale per CV / GitHub / LinkedIn:
 
 ---
 
-## 💼 Esperienza professionale
+# 👋 Hi, I'm Fabrizio Di Sciorio, PhD
 
-**Senior Data Analyst – FiberCop**  
-Apr 2025 – Presente | Roma, Italia  
-- Sviluppo e implementazione di modelli quantitativi avanzati per la gestione del rischio finanziario (energy, EBITDA, credit sectors)  
-- Simulazioni Monte Carlo per scenari stocastici e distribuzioni di perdite/profitti  
-- Modelli copula per catturare dipendenze complesse tra variabili finanziarie  
-- Applicazione di modelli ML per la previsione di default e performance energetica  
-
-**Data Scientist – Prelios**  
-Set 2020 – Mar 2025 | Ibrida  
-- Sviluppo di un AVM basato su ensemble stacking per immobili residenziali (accuratezza 80-85%)  
-- Algoritmo di rivalutazione dinamica di collaterali immobiliari a livello micro-territoriale  
-- Analisi statistica avanzata e reportistica BI per clienti istituzionali  
-
-**Junior Data Scientist – DEMOCOM Srl**  
-Gen 2019 – Ago 2020 | Milano  
-- Analisi dati finanziari, sviluppo di modelli predittivi e reporting  
-
-**Intern Quantitative Analyst – Enel Group**  
-Giu 2017 – Ott 2017 | Roma  
-- Stima della volatilità con modelli parametrici e non parametrici  
+💻 **Applied Data Scientist | PhD in Quantitative Methods for Economics**
+📍 Rome, Italy | 🚴‍♂️ Cyclist
 
 ---
 
-## 🎓 Formazione
+## 💼 Professional Experience
 
-**PhD in Quantitative Finance & Econometrics – Universidad de Almería**  
-Set 2021 – Set 2024 | Cum Laude  
-Tesi: *Estimating Information Inefficiency in Financial Markets Under a Fractional Regime*  
+**Senior Data Analyst – FiberCop**
+Apr 2025 – Present | Rome, Italy
 
-**MIT Professional Education – Specialized Course in Applied Data Science**  
-Gen 2024 – Lug 2024  
-Progetto: Facial Emotion Detection via CNN & ViT  
+* Development and implementation of advanced quantitative models for financial risk management (energy, EBITDA, credit sectors)
+* Monte Carlo simulations for stochastic scenarios and profit/loss distributions
+* Copula models to capture complex dependencies among financial variables
+* Application of Machine Learning models for default prediction and energy performance forecasting
 
----
+**Data Scientist – Prelios**
+Sep 2020 – Mar 2025 | Hybrid
 
-## 🛠 Competenze tecniche
+* Development of an ensemble stacking AVM for residential real estate valuation (80–85% accuracy)
+* Dynamic revaluation algorithm for real estate collateral at micro-territorial level
+* Advanced statistical analysis and BI reporting for institutional clients
 
-- **Machine Learning**: regression, classification, ensemble models, XGBoost  
-- **Econometrics & Risk Modeling**  
-- **Python, R, SQL**  
-- **Data Analysis & Visualization**: Pandas, Matplotlib, Statsmodels  
-- **Automated Valuation Models (AVM)** per immobili  
+**Junior Data Scientist – DEMOCOM Srl**
+Jan 2019 – Aug 2020 | Milan, Italy
 
----
+* Financial data analysis, predictive modeling, and reporting
 
-## 🏗 Progetti principali
+**Quantitative Analyst Intern – Enel Group**
+Jun 2017 – Oct 2017 | Rome, Italy
 
-- **Facial Emotion Detection**  
-  CNN per classificazione delle emozioni facciali (accuratezza 77%)  
-
-- **Melanoma Detection – Ensemble Stacking**  
-  Ensemble stacking model: CNNs + XGBoost, miglioramento performance su immagini dermoscopiche  
-
-- **[Financial Risk Modeling](https://github.com/faberBI/Finedu-webapp)**
-  Simulazioni Monte Carlo per stimare rendimenti e rischi di portafogli d’investimento custom
-
-- **[Capex Risk Modeling](https://github.com/faberBI/Capex_Monte-Carlo)**  
-  Simulazioni Monte Carlo per stima quantitativa dei rischi su progetti di investimento
-
-- **[EDA & Automated Machine Learning](https://github.com/faberBI/EDA)**  
-  EDA & addestramentro modelli di Machine Learning automatico e in modo interattivo
-
-- **[Osservatorio Immobiliare Italiano Analysis](https://github.com/faberBI/OMI-analysis)**
-  Analisi dei valori immobiliari con aggiornamento delle geometrie delle zone OMI in python
-
-- **[Stima deii danni economici attesi a beni immobili esposti a rischi fisici naturali](https://github.com/faberBI/Physical-Risk-Damage-Estimation)**
-  Analisi dei rischi fisici (frane, idrico, sismico, tempeste), utilizzando un approccio basato su copula multivariata
-
-## 📝 Pubblicazioni selezionate
-
-- *[A composite index for measuring stock market inefficiency](https://scholar.google.com/citations?view_op=view_citation&hl=it&user=KrCXe-4AAAAJ&citation_for_view=KrCXe-4AAAAJ:u5HHmVD_uO8C)* – Complexity, 2022  
-- *[Option pricing under multifractional process and long-range dependence](https://scholar.google.com/citations?view_op=view_citation&hl=it&user=KrCXe-4AAAAJ&citation_for_view=KrCXe-4AAAAJ:IjCSPb-OGe4C)* – Fluctuation and Noise Letters, 2021  
-- *[Forecasting VIX with Hurst exponent](https://scholar.google.com/citations?view_op=view_citation&hl=it&user=KrCXe-4AAAAJ&citation_for_view=KrCXe-4AAAAJ:qjMakFHDy7sC)* – Methods and Applications in Fluorescence, 2022  
+* Volatility estimation using parametric and non-parametric models
 
 ---
 
-## 📬 Contatti
+## 🎓 Education
 
-- Email: [fabrizio.disciorio@gmail.com](mailto:fabrizio.disciorio@gmail.com)  
-- LinkedIn: [Fabrizio Di Sciorio](https://www.linkedin.com/in/fabriziodisciorio/)  
-- GitHub: [FabrizioDiSciorio](https://github.com/FabrizioDiSciorio)
-- Google Scholar: [FabrizioDiSciorio](https://scholar.google.com/citations?user=KrCXe-4AAAAJ&hl=it)
+**PhD in Quantitative Finance & Econometrics – Universidad de Almería**
+Sep 2021 – Sep 2024 | *Cum Laude*
+Dissertation: *Estimating Information Inefficiency in Financial Markets Under a Fractional Regime*
+
+**MIT Professional Education – Specialized Course in Applied Data Science**
+Jan 2024 – Jul 2024
+Project: Facial Emotion Detection using CNN & Vision Transformers (ViT)
 
 ---
+
+## 🛠 Technical Skills
+
+* **Machine Learning**: regression, classification, ensemble models, XGBoost
+* **Econometrics & Risk Modeling**
+* **Programming**: Python, R, SQL
+* **Data Analysis & Visualization**: Pandas, Matplotlib, Statsmodels
+* **Automated Valuation Models (AVM)** for real estate
+
+---
+
+## 🏗 Key Projects
+
+* **[Lambda Guard](https://github.com/faberBI/lambdaguard)**
+  Lambda guard boosting creator - Detect the moment when your model stops learning signal and starts memorizing structure in a boosting models.
+
+* **Facial Emotion Detection**
+  CNN-based facial emotion classification model (77% accuracy)
+
+* **Melanoma Detection – Ensemble Stacking**
+  Ensemble stacking model combining CNNs and XGBoost, improving performance on dermoscopic images
+
+* **[Financial Risk Modeling](https://github.com/faberBI/Finedu-webapp)**
+  Monte Carlo simulations to estimate returns and risks of custom investment portfolios
+
+* **[Capex Risk Modeling](https://github.com/faberBI/Capex_Monte-Carlo)**
+  Monte Carlo simulations for quantitative risk estimation in investment projects
+
+* **[EDA & Automated Machine Learning](https://github.com/faberBI/EDA)**
+  Interactive exploratory data analysis and automated Machine Learning model training
+
+* **[Italian Real Estate Observatory Analysis](https://github.com/faberBI/OMI-analysis)**
+  Real estate value analysis with automated updates of OMI zone geometries in Python
+
+* **[Expected Economic Damage Estimation for Real Estate Exposed to Natural Physical Risks](https://github.com/faberBI/Physical-Risk-Damage-Estimation)**
+  Physical risk analysis (landslides, hydrological, seismic, storms) using a multivariate copula-based approach
+
+---
+
+## 📝 Selected Publications
+
+* *[A Composite Index for Measuring Stock Market Inefficiency](https://scholar.google.com/citations?view_op=view_citation&hl=it&user=KrCXe-4AAAAJ&citation_for_view=KrCXe-4AAAAJ:u5HHmVD_uO8C)* – Complexity, 2022
+* *[Option Pricing under Multifractional Process and Long-Range Dependence](https://scholar.google.com/citations?view_op=view_citation&hl=it&user=KrCXe-4AAAAJ&citation_for_view=KrCXe-4AAAAJ:IjCSPb-OGe4C)* – Fluctuation and Noise Letters, 2021
+* *[Forecasting VIX with Hurst Exponent](https://scholar.google.com/citations?view_op=view_citation&hl=it&user=KrCXe-4AAAAJ&citation_for_view=KrCXe-4AAAAJ:qjMakFHDy7sC)* – Methods and Applications in Fluorescence, 2022
+
+---
+
+## 📬 Contact
+
+* Email: [fabrizio.disciorio@gmail.com](mailto:fabrizio.disciorio@gmail.com)
+* LinkedIn: [Fabrizio Di Sciorio](https://www.linkedin.com/in/fabriziodisciorio/)
+* GitHub: [FabrizioDiSciorio](https://github.com/FabrizioDiSciorio)
+* Google Scholar: [FabrizioDiSciorio](https://scholar.google.com/citations?user=KrCXe-4AAAAJ&hl=it)
 
