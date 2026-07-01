@@ -9,7 +9,7 @@
 
 ## 💼 Professional Experience
 
-**Senior Data Analyst – FiberCop**
+**Senior AI Data Scientist – FiberCop**
 Apr 2025 – Present | Rome, Italy
 
 * Development and implementation of advanced quantitative models for financial risk management (energy, EBITDA, credit sectors)
