@@ -54,7 +54,6 @@ When I'm not training models, I'm training legs and lungs.
 - 🖥️ **Indoor / e-Racing** — riding for **eSRT Team**
 - 🛣️ **Road** — riding for **Di Sciorio Cycling Team**
 
-🏊‍♂️🚴‍♂️🏃 **Triathlon / Ironman** — swim, bike, run, repeat
 
 🧠 Same mindset as data science: pace yourself, trust the data (power, heart rate, splits), avoid overfitting your training plan to one good race
 
