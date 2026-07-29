@@ -1,4 +1,4 @@
-[# Fabrizio Di Sciorio, PhD
+[[[# Fabrizio Di Sciorio, PhD
 
 <p align="center">
 Senior AI Data Scientist · Quantitative Researcher · Financial Risk Modeling
@@ -187,6 +187,631 @@ If you're interested in:
 
 feel free to connect.
 ](https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,100:2563EB&height=250&section=header&text=Fabrizio%20Di%20Sciorio,%20PhD&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20AI%20Data%20Scientist%20%7C%20Quantitative%20Researcher%20%7C%20Energy%20Risk%20Analytics&descAlignY=58
+
+<h3 align="center">
+Machine Learning • Quantitative Finance • Energy Markets • Risk Modeling
+</h3>
+
+<p align="center">
+<a href="mailto:fabrizio.disciorio@gmail.com">
+https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white
+</a>
+
+https://www.linkedin.com/in/fabriziodisciorio/
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+</a>
+
+https://scholar.google.com/citations?user=KrCXe-4AAAAJ&hl=it
+https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white
+</a>
+
+https://github.com/FabrizioDiSciorio
+https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
+</a>
+</p>
+
+---
+
+# 👨‍💻 About Me
+
+I am a **Senior AI Data Scientist** with a PhD in **Quantitative Finance & Econometrics** and extensive experience in developing advanced analytics solutions for:
+
+- Artificial Intelligence
+- Energy Risk Management
+- Quantitative Finance
+- Monte Carlo Simulation
+- Econometrics
+- Forecasting Systems
+- Credit Risk Analytics
+- Explainable AI
+
+Currently working at **FiberCop**, where I design and implement predictive and stochastic models supporting strategic decision-making, risk assessment, and financial planning.
+
+---
+
+# 🚀 Areas of Expertise
+
+### 🤖 Artificial Intelligence & Machine Learning
+
+- Predictive Modeling
+- Ensemble Learning
+- Gradient Boosting
+- Deep Learning
+- Explainable AI
+- AutoML Frameworks
+
+### 📊 Quantitative Finance
+
+- Financial Econometrics
+- Market Inefficiency Analysis
+- Monte Carlo Simulation
+- Stochastic Processes
+- Portfolio Risk Management
+- Copula Models
+
+### ⚡ Energy Analytics
+
+- Electricity Price Forecasting
+- Energy Hedging Strategies
+- EBITDA Sensitivity Analysis
+- Scenario Generation
+- Long-Term Market Forecasting
+
+---
+
+# 🛠️ Technology Stack
+
+<p align="center">
+https://skillicons.dev/icons?i=python,r,tensorflow,pytorch,sklearn,postgresql,mysql,docker,git,vscode
+</p>
+
+### Core Libraries
+
+```python
+Pandas
+NumPy
+Polars
+Scikit-Learn
+LightGBM
+XGBoost
+CatBoost
+Optuna
+Statsmodels
+Plotly
+Streamlit
+TensorFlow
+PyTorch
+```
+
+---
+
+# 💼 Professional Experience
+
+## FiberCop
+### Senior AI Data Scientist
+*Apr 2025 – Present*
+
+- Energy Risk Modeling
+- EBITDA Analytics
+- Credit Risk Assessment
+- Monte Carlo Simulations
+- Copula Frameworks
+- AI Forecasting Systems
+
+---
+
+## Prelios
+
+### Data Scientist
+*Sep 2020 – Mar 2025*
+
+- Ensemble AVM Development
+- Real Estate Analytics
+- Collateral Monitoring
+- Predictive Models for Property Valuation
+- Business Intelligence Solutions
+
+---
+
+## DEMOCOM
+
+### Junior Data Scientist
+*Jan 2019 – Aug 2020*
+
+- Statistical Analysis
+- Predictive Analytics
+- Reporting Automation
+
+---
+
+## Enel Group
+
+### Quantitative Analyst Intern
+*Jun 2017 – Oct 2017*
+
+- Volatility Modeling
+- Financial Time Series Analysis
+
+---
+
+# 🔬 Research Interests
+
+- Financial Market Efficiency
+- Long Memory Processes
+- Fractional Brownian Motion
+- Fractal Finance
+- Hurst Exponent Analysis
+- Time Series Forecasting
+- Complex Systems
+
+---
+
+# 🏆 Featured Projects
+
+## LambdaGuard
+
+Detect the exact moment when boosting algorithms stop learning signal and start memorizing noise.
+
+🔗 Repository:
+https://github.com/faberBI/lambdaguard
+
+---
+
+## Energy Risk Analytics Platform
+
+Advanced forecasting and hedging system featuring:
+
+- Multi-horizon forecasting
+- Quantile predictions
+- Regime detection
+- Explainable AI
+- Strategic hedging simulations
+
+---
+
+## CAPEX Monte Carlo Risk Engine
+
+Probabilistic framework for investment risk assessment including:
+
+- Schedule Risk
+- Cost Risk
+- Sensitivity Analysis
+- Scenario Generation
+
+🔗 Repository:
+https://github.com/faberBI/Capex_Monte-Carlo
+
+---
+
+## Financial Risk Modeling
+
+Monte Carlo engine for portfolio analysis and investment simulations.
+
+🔗 Repository:
+https://github.com/faberBI/Finedu-webapp
+
+---
+
+## Physical Risk Damage Estimation
+
+Copula-based methodology estimating economic damages caused by:
+
+- Floods
+- Landslides
+- Seismic Events
+- Storms
+
+🔗 Repository:
+https://github.com/faberBI/Physical-Risk-Damage-Estimation
+
+---
+
+# 🎓 Education
+
+## PhD in Quantitative Finance & Econometrics
+
+**Universidad de Almería**
+
+*Cum Laude*
+
+Dissertation:
+
+> Estimating Information Inefficiency in Financial Markets Under a Fractional Regime
+
+---
+
+## MIT Professional Education
+
+Applied Data Science Program
+
+Final Project:
+
+> Facial Emotion Detection using CNNs and Vision Transformers
+
+---
+
+# 📚 Selected Publications
+
+### A Composite Index for Measuring Stock Market Inefficiency
+
+Complexity, 2022
+
+---
+
+### Option Pricing under Multifractional Process and Long-Range Dependence
+
+Fluctuation and Noise Letters, 2021
+
+---
+
+### Forecasting VIX with Hurst Exponent
+
+Methods and Applications in Fluorescence, 2022
+
+---
+
+📖 Full publication list:
+
+https://scholar.google.com/citations?user=KrCXe-4AAAAJ
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+
+https://github-readme-stats.vercel.app/api?username=FabrizioDiSciorio&show_icons=true&theme=tokyonight
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=FabrizioDiSciorio&layout=compact&theme=tokyonight
+
+</p>
+
+<p align="center">
+
+https://github-readme-streak-stats.herokuapp.com/?user=FabrizioDiSciorio&theme=tokyonight
+
+</p>
+
+---
+
+# 🏅 GitHub Achievements
+
+<p align="center">
+https://github-profile-trophy.vercel.app/?username=FabrizioDiSciorio&theme=algolia&no-frame=true&row=1
+</p>
+
+---
+
+# 📬 Let's Connect
+
+Interested in:
+
+- Artificial Intelligence
+- Quantitative Finance
+- Energy Markets
+- Risk Management
+- Applied Research
+
+Feel free to connect and collaborate.
+
+<p align="center">
+<b>Building AI-driven solutions at the intersection of Finance, Energy and Advanced Analytics.</b>
+</p>
+
+https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0A192F&height=120&section=footer)
+](https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,100:2563EB&height=250&section=header&text=Fabrizio%20Di%20Sciorio,%20PhD&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20AI%20Data%20Scientist%20%7C%20Quantitative%20Researcher%20%7C%20Energy%20Risk%20Analytics&descAlignY=58
+
+<h3 align="center">
+Machine Learning • Quantitative Finance • Energy Markets • Risk Modeling
+</h3>
+
+<p align="center">
+<a href="mailto:fabrizio.disciorio@gmail.com">
+https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white
+</a>
+
+https://www.linkedin.com/in/fabriziodisciorio/
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+</a>
+
+https://scholar.google.com/citations?user=KrCXe-4AAAAJ&hl=it
+https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white
+</a>
+
+https://github.com/FabrizioDiSciorio
+https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
+</a>
+</p>
+
+---
+
+# 👨‍💻 About Me
+
+I am a **Senior AI Data Scientist** with a PhD in **Quantitative Finance & Econometrics** and extensive experience in developing advanced analytics solutions for:
+
+- Artificial Intelligence
+- Energy Risk Management
+- Quantitative Finance
+- Monte Carlo Simulation
+- Econometrics
+- Forecasting Systems
+- Credit Risk Analytics
+- Explainable AI
+
+Currently working at **FiberCop**, where I design and implement predictive and stochastic models supporting strategic decision-making, risk assessment, and financial planning.
+
+---
+
+# 🚀 Areas of Expertise
+
+### 🤖 Artificial Intelligence & Machine Learning
+
+- Predictive Modeling
+- Ensemble Learning
+- Gradient Boosting
+- Deep Learning
+- Explainable AI
+- AutoML Frameworks
+
+### 📊 Quantitative Finance
+
+- Financial Econometrics
+- Market Inefficiency Analysis
+- Monte Carlo Simulation
+- Stochastic Processes
+- Portfolio Risk Management
+- Copula Models
+
+### ⚡ Energy Analytics
+
+- Electricity Price Forecasting
+- Energy Hedging Strategies
+- EBITDA Sensitivity Analysis
+- Scenario Generation
+- Long-Term Market Forecasting
+
+---
+
+# 🛠️ Technology Stack
+
+<p align="center">
+https://skillicons.dev/icons?i=python,r,tensorflow,pytorch,sklearn,postgresql,mysql,docker,git,vscode
+</p>
+
+### Core Libraries
+
+```python
+Pandas
+NumPy
+Polars
+Scikit-Learn
+LightGBM
+XGBoost
+CatBoost
+Optuna
+Statsmodels
+Plotly
+Streamlit
+TensorFlow
+PyTorch
+```
+
+---
+
+# 💼 Professional Experience
+
+## FiberCop
+### Senior AI Data Scientist
+*Apr 2025 – Present*
+
+- Energy Risk Modeling
+- EBITDA Analytics
+- Credit Risk Assessment
+- Monte Carlo Simulations
+- Copula Frameworks
+- AI Forecasting Systems
+
+---
+
+## Prelios
+
+### Data Scientist
+*Sep 2020 – Mar 2025*
+
+- Ensemble AVM Development
+- Real Estate Analytics
+- Collateral Monitoring
+- Predictive Models for Property Valuation
+- Business Intelligence Solutions
+
+---
+
+## DEMOCOM
+
+### Junior Data Scientist
+*Jan 2019 – Aug 2020*
+
+- Statistical Analysis
+- Predictive Analytics
+- Reporting Automation
+
+---
+
+## Enel Group
+
+### Quantitative Analyst Intern
+*Jun 2017 – Oct 2017*
+
+- Volatility Modeling
+- Financial Time Series Analysis
+
+---
+
+# 🔬 Research Interests
+
+- Financial Market Efficiency
+- Long Memory Processes
+- Fractional Brownian Motion
+- Fractal Finance
+- Hurst Exponent Analysis
+- Time Series Forecasting
+- Complex Systems
+
+---
+
+# 🏆 Featured Projects
+
+## LambdaGuard
+
+Detect the exact moment when boosting algorithms stop learning signal and start memorizing noise.
+
+🔗 Repository:
+https://github.com/faberBI/lambdaguard
+
+---
+
+## Energy Risk Analytics Platform
+
+Advanced forecasting and hedging system featuring:
+
+- Multi-horizon forecasting
+- Quantile predictions
+- Regime detection
+- Explainable AI
+- Strategic hedging simulations
+
+---
+
+## CAPEX Monte Carlo Risk Engine
+
+Probabilistic framework for investment risk assessment including:
+
+- Schedule Risk
+- Cost Risk
+- Sensitivity Analysis
+- Scenario Generation
+
+🔗 Repository:
+https://github.com/faberBI/Capex_Monte-Carlo
+
+---
+
+## Financial Risk Modeling
+
+Monte Carlo engine for portfolio analysis and investment simulations.
+
+🔗 Repository:
+https://github.com/faberBI/Finedu-webapp
+
+---
+
+## Physical Risk Damage Estimation
+
+Copula-based methodology estimating economic damages caused by:
+
+- Floods
+- Landslides
+- Seismic Events
+- Storms
+
+🔗 Repository:
+https://github.com/faberBI/Physical-Risk-Damage-Estimation
+
+---
+
+# 🎓 Education
+
+## PhD in Quantitative Finance & Econometrics
+
+**Universidad de Almería**
+
+*Cum Laude*
+
+Dissertation:
+
+> Estimating Information Inefficiency in Financial Markets Under a Fractional Regime
+
+---
+
+## MIT Professional Education
+
+Applied Data Science Program
+
+Final Project:
+
+> Facial Emotion Detection using CNNs and Vision Transformers
+
+---
+
+# 📚 Selected Publications
+
+### A Composite Index for Measuring Stock Market Inefficiency
+
+Complexity, 2022
+
+---
+
+### Option Pricing under Multifractional Process and Long-Range Dependence
+
+Fluctuation and Noise Letters, 2021
+
+---
+
+### Forecasting VIX with Hurst Exponent
+
+Methods and Applications in Fluorescence, 2022
+
+---
+
+📖 Full publication list:
+
+https://scholar.google.com/citations?user=KrCXe-4AAAAJ
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+
+https://github-readme-stats.vercel.app/api?username=FabrizioDiSciorio&show_icons=true&theme=tokyonight
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=FabrizioDiSciorio&layout=compact&theme=tokyonight
+
+</p>
+
+<p align="center">
+
+https://github-readme-streak-stats.herokuapp.com/?user=FabrizioDiSciorio&theme=tokyonight
+
+</p>
+
+---
+
+# 🏅 GitHub Achievements
+
+<p align="center">
+https://github-profile-trophy.vercel.app/?username=FabrizioDiSciorio&theme=algolia&no-frame=true&row=1
+</p>
+
+---
+
+# 📬 Let's Connect
+
+Interested in:
+
+- Artificial Intelligence
+- Quantitative Finance
+- Energy Markets
+- Risk Management
+- Applied Research
+
+Feel free to connect and collaborate.
+
+<p align="center">
+<b>Building AI-driven solutions at the intersection of Finance, Energy and Advanced Analytics.</b>
+</p>
+
+https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0A192F&height=120&section=footer)](https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,100:2563EB&height=250&section=header&text=Fabrizio%20Di%20Sciorio,%20PhD&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20AI%20Data%20Scientist%20%7C%20Quantitative%20Researcher%20%7C%20Energy%20Risk%20Analytics&descAlignY=58
 
 <h3 align="center">
 Machine Learning • Quantitative Finance • Energy Markets • Risk Modeling
