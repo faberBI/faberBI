@@ -1,103 +1,188 @@
+# Fabrizio Di Sciorio, PhD
 
----
-# 👋 Hi, I'm Fabrizio Di Sciorio, PhD
+<p align="center">
+Senior AI Data Scientist · Quantitative Researcher · Financial Risk Modeling
+</p>
 
-💻 **Applied Data Scientist | PhD in Quantitative Methods for Economics**
-📍 Rome, Italy | 🚴‍♂️ Cyclist
+<p align="center">
+📍 Rome, Italy • 🎓 PhD in Quantitative Finance & Econometrics
+</p>
 
----
-
-## 💼 Professional Experience
-
-**Senior AI Data Scientist – FiberCop**
-Apr 2025 – Present | Rome, Italy
-
-* Development and implementation of advanced quantitative models for financial risk management (energy, EBITDA, credit sectors)
-* Monte Carlo simulations for stochastic scenarios and profit/loss distributions
-* Copula models to capture complex dependencies among financial variables
-* Application of Machine Learning models for default prediction and energy performance forecasting
-
-**Data Scientist – Prelios**
-Sep 2020 – Mar 2025 | Hybrid
-
-* Development of an ensemble stacking AVM for residential real estate valuation (80–85% accuracy)
-* Dynamic revaluation algorithm for real estate collateral at micro-territorial level
-* Advanced statistical analysis and BI reporting for institutional clients
-
-**Junior Data Scientist – DEMOCOM Srl**
-Jan 2019 – Aug 2020 | Milan, Italy
-
-* Financial data analysis, predictive modeling, and reporting
-
-**Quantitative Analyst Intern – Enel Group**
-Jun 2017 – Oct 2017 | Rome, Italy
-
-* Volatility estimation using parametric and non-parametric models
+<p align="center">
+https://www.linkedin.com/in/fabriziodisciorio/LinkedIn</a> •
+https://scholar.google.com/citations?user=KrCXe-4AAAAJ&hl=itGoogle Scholar</a> •
+<a href="mailto:fabrizio.disciorio@gmail.com">Email</a>
+</p>
 
 ---
 
-## 🎓 Education
+## About Me
 
-**PhD in Quantitative Finance & Econometrics – Universidad de Almería**
-Sep 2021 – Sep 2024 | *Cum Laude*
-Dissertation: *Estimating Information Inefficiency in Financial Markets Under a Fractional Regime*
+I am a Senior AI Data Scientist with expertise in:
 
-**MIT Professional Education – Specialized Course in Applied Data Science**
-Jan 2024 – Jul 2024
-Project: Facial Emotion Detection using CNN & Vision Transformers (ViT)
+- Artificial Intelligence & Machine Learning
+- Quantitative Finance & Econometrics
+- Energy Risk Management
+- Monte Carlo Simulation
+- Copula Modeling
+- Time Series Forecasting
+- Financial Risk Analytics
 
----
+My work focuses on developing data-driven solutions for risk management, forecasting, investment analysis, and decision support systems.
 
-## 🛠 Technical Skills
-
-* **Machine Learning**: regression, classification, ensemble models, XGBoost
-* **Econometrics & Risk Modeling**
-* **Programming**: Python, R, SQL
-* **Data Analysis & Visualization**: Pandas, Matplotlib, Statsmodels
-* **Automated Valuation Models (AVM)** for real estate
+I actively contribute to open-source projects and research on market efficiency, complex systems, and advanced statistical modeling.
 
 ---
 
-## 🏗 Key Projects
+## Current Position
 
-* **[Lambda Guard](https://github.com/faberBI/lambdaguard)**
-  Lambda guard boosting creator - Detect the moment when your model stops learning signal and starts memorizing structure in a boosting models.
+### FiberCop — Senior AI Data Scientist
+*Apr 2025 – Present*
 
-* **Facial Emotion Detection**
-  CNN-based facial emotion classification model (77% accuracy)
+Designing advanced AI and quantitative models for:
 
-* **Melanoma Detection – Ensemble Stacking**
-  Ensemble stacking model combining CNNs and XGBoost, improving performance on dermoscopic images
-
-* **[Financial Risk Modeling](https://github.com/faberBI/Finedu-webapp)**
-  Monte Carlo simulations to estimate returns and risks of custom investment portfolios
-
-* **[Capex Risk Modeling](https://github.com/faberBI/Capex_Monte-Carlo)**
-  Monte Carlo simulations for quantitative risk estimation in investment projects
-
-* **[EDA & Automated Machine Learning](https://github.com/faberBI/EDA)**
-  Interactive exploratory data analysis and automated Machine Learning model training
-
-* **[Italian Real Estate Observatory Analysis](https://github.com/faberBI/OMI-analysis)**
-  Real estate value analysis with automated updates of OMI zone geometries in Python
-
-* **[Expected Economic Damage Estimation for Real Estate Exposed to Natural Physical Risks](https://github.com/faberBI/Physical-Risk-Damage-Estimation)**
-  Physical risk analysis (landslides, hydrological, seismic, storms) using a multivariate copula-based approach
+- Energy hedging and risk management
+- EBITDA sensitivity analysis
+- Credit risk assessment
+- Scenario generation through Monte Carlo methods
+- Dependence structures using Copula models
+- Forecasting systems for energy markets
 
 ---
 
-## 📝 Selected Publications
+## Research Interests
 
-* *[A Composite Index for Measuring Stock Market Inefficiency](https://scholar.google.com/citations?view_op=view_citation&hl=it&user=KrCXe-4AAAAJ&citation_for_view=KrCXe-4AAAAJ:u5HHmVD_uO8C)* – Complexity, 2022
-* *[Option Pricing under Multifractional Process and Long-Range Dependence](https://scholar.google.com/citations?view_op=view_citation&hl=it&user=KrCXe-4AAAAJ&citation_for_view=KrCXe-4AAAAJ:IjCSPb-OGe4C)* – Fluctuation and Noise Letters, 2021
-* *[Forecasting VIX with Hurst Exponent](https://scholar.google.com/citations?view_op=view_citation&hl=it&user=KrCXe-4AAAAJ&citation_for_view=KrCXe-4AAAAJ:qjMakFHDy7sC)* – Methods and Applications in Fluorescence, 2022
+- Machine Learning
+- Financial Markets
+- Energy Markets
+- Market Inefficiency
+- Fractal Finance
+- Long Memory Processes
+- Risk Management
+- Explainable AI
 
 ---
 
-## 📬 Contact
+## Technical Stack
 
-* Email: [fabrizio.disciorio@gmail.com](mailto:fabrizio.disciorio@gmail.com)
-* LinkedIn: [Fabrizio Di Sciorio](https://www.linkedin.com/in/fabriziodisciorio/)
-* GitHub: [FabrizioDiSciorio](https://github.com/FabrizioDiSciorio)
-* Google Scholar: [FabrizioDiSciorio](https://scholar.google.com/citations?user=KrCXe-4AAAAJ&hl=it)
+### Languages
 
+https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white
+https://img.shields.io/badge/SQL-4479A1?style=for-the-badge
+
+### Machine Learning
+
+LightGBM • XGBoost • CatBoost • Scikit-Learn • TensorFlow • PyTorch
+
+### Quantitative Finance
+
+Monte Carlo Simulation • Copulas • Risk Metrics • Scenario Analysis • Stochastic Processes • Time Series Forecasting
+
+### Data Science
+
+Pandas • NumPy • Polars • Plotly • Streamlit • Statsmodels
+
+---
+
+## Featured Projects
+
+### LambdaGuard
+Model diagnostics framework designed to identify the transition point where gradient boosting algorithms start fitting noise rather than signal.
+
+🔗 https://github.com/faberBI/lambdaguard
+
+---
+
+### Energy Risk Analytics Platform
+Advanced forecasting and hedging framework for electricity markets featuring:
+
+- Direct multi-horizon forecasting
+- Probabilistic prediction intervals
+- Regime detection
+- Explainable AI
+- Strategic hedging simulations
+
+---
+
+### CAPEX Monte Carlo Risk Engine
+
+Monte Carlo simulation framework for investment project evaluation integrating:
+
+- Schedule risk
+- Cost uncertainty
+- Probabilistic scenario analysis
+- Sensitivity assessment
+
+🔗 https://github.com/faberBI/Capex_Monte-Carlo
+
+---
+
+### Physical Risk Damage Estimation
+
+Copula-based framework for estimating expected economic losses caused by:
+
+- Floods
+- Landslides
+- Seismic events
+- Storms
+
+🔗 https://github.com/faberBI/Physical-Risk-Damage-Estimation
+
+---
+
+## Selected Publications
+
+### A Composite Index for Measuring Stock Market Inefficiency
+Complexity (2022)
+
+### Option Pricing under Multifractional Process and Long-Range Dependence
+Fluctuation and Noise Letters (2021)
+
+### Forecasting VIX with Hurst Exponent
+Methods and Applications in Fluorescence (2022)
+
+More publications:
+🔗 https://scholar.google.com/citations?user=KrCXe-4AAAAJ
+
+---
+
+## Education
+
+### PhD in Quantitative Finance & Econometrics
+Universidad de Almería
+
+Dissertation:
+
+*"Estimating Information Inefficiency in Financial Markets Under a Fractional Regime"*
+
+---
+
+### MIT Professional Education
+
+Applied Data Science Program
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  https://github-readme-stats.vercel.app/api?username=FabrizioDiSciorio&show_icons=true&theme=default
+</p>
+
+<p align="center">
+  https://github-readme-streak-stats.herokuapp.com/?user=FabrizioDiSciorio
+</p>
+
+---
+
+### Let's Connect
+
+If you're interested in:
+
+- AI & Machine Learning
+- Quantitative Finance
+- Energy Analytics
+- Applied Research
+
+feel free to connect.
