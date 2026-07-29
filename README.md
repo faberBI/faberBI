@@ -29,6 +29,7 @@ class DataScientist:
         self.location = "Rome, Italy 🇮🇹"
         self.focus = ["AI & ML", "Real Estate AVM", "ML Forecast", "Overfitting"]
         self.currently_exploring = "Long Memory Processes & Fractal Finance"
+        self.off_duty = ["Cycling 🚴", "Triathlon / Ironman 🏊‍♂️🚴‍♂️🏃"]
 
     def say_hi(self):
         print("Thanks for stopping by — let's build something data-driven!")
@@ -42,6 +43,20 @@ class DataScientist:
 - 📊 Overfitting diagnostics for gradient boosting models (LambdaGuard)
 - ⏱️ Multi-horizon time series forecasting techniques
 - 📖 Long Memory Processes & Fractal Finance research
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,100:2563EB&height=3" />
+
+### 🚴 Beyond the Code
+
+When I'm not training models, I'm training legs and lungs.
+
+🚴 **Cycling** — long rides, climbs, chasing watts and KOMs
+🏊‍♂️🚴‍♂️🏃 **Triathlon / Ironman** — swim, bike, run, repeat
+🧠 Same mindset as data science: pace yourself, trust the data (heart rate, power, splits), avoid overfitting your training plan to one good race
+
+![Cycling](https://img.shields.io/badge/Cycling-FC4C02?style=for-the-badge&logo=strava&logoColor=white)
+![Triathlon](https://img.shields.io/badge/Triathlon-000000?style=for-the-badge&logo=ironman&logoColor=white)
+![Endurance](https://img.shields.io/badge/Endurance_Athlete-2563EB?style=for-the-badge&logo=runkeeper&logoColor=white)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,100:2563EB&height=3" />
 
@@ -109,11 +124,11 @@ class DataScientist:
 
 **Proficiency**
 
-`Python`      `██████████████████░░` 90%
+`Python`      `██████████████████░░` 80%
 `Gradient Boosting (LGBM/XGB/CatBoost)` `██████████████████░░` 90%
 `Time Series Forecasting` `█████████████████░░░` 85%
-`R`           `██████████████░░░░░░` 70%
-`SQL`         `████████████████░░░░` 80%
+`R`           `██████████████░░░░░░` 90%
+`SQL`         `████████████████░░░░` 50%
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,100:2563EB&height=3" />
 
