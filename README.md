@@ -128,11 +128,11 @@ When I'm not training models, I'm training legs and lungs.
 
 **Proficiency**
 
-`Python`      `██████████████████░░` 90%
+`Python`      `██████████████████░░` 80%
 `Gradient Boosting (LGBM/XGB/CatBoost)` `██████████████████░░` 90%
 `Time Series Forecasting` `█████████████████░░░` 85%
-`R`           `██████████████░░░░░░` 70%
-`SQL`         `████████████████░░░░` 80%
+`R`           `██████████████░░░░░░` 90%
+`SQL`         `████████████████░░░░` 50%
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,100:2563EB&height=3" />
 
@@ -163,7 +163,7 @@ When I'm not training models, I'm training legs and lungs.
 **[🛡️ LambdaGuard](https://github.com/faberBI/lambdaguard)**
 Detects the exact moment when boosting algorithms stop learning signal and start memorizing noise.
 
-`Python` `LightGBM` `XGBoost`
+`Python` `LightGBM` `XGBoost` `RandomForest`
 
 </td>
 <td width="50%">
