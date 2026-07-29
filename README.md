@@ -212,9 +212,7 @@ Copula-based methodology estimating economic damages from floods, landslides, se
 
 ### 📬 Let's Connect
 
-Interested in **AI**, **Quantitative Finance**, **Energy Markets** or **Applied Research**? Let's talk.
-
-**Building AI-driven solutions at the intersection of Finance, Energy and Advanced Analytics.**
+Interested in **AI**, **Quantitative Finance**, **Overfitting**, **Forecast & Prediction** or **Applied Research**? Let's talk.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,50:2563EB,100:0A192F&height=150&section=footer" />
 
