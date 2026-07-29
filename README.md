@@ -29,7 +29,7 @@ class DataScientist:
         self.location = "Rome, Italy 🇮🇹"
         self.focus = ["AI & ML", "Real Estate AVM", "ML Forecast", "Overfitting"]
         self.currently_exploring = "Long Memory Processes & Fractal Finance"
-        self.off_duty = ["Cycling (eSRT Team - indoor) 🖥️", "Cycling (Di Sciorio Cycling Team - road) 🛣️", "Triathlon / Ironman 🏊‍♂️🚴‍♂️🏃"]
+        self.off_duty = ["Cycling (eSRT Team - indoor) 🖥️", "Cycling (Di Sciorio Cycling Team - road) 🛣️"]
 
     def say_hi(self):
         print("Thanks for stopping by — let's build something data-driven!")
