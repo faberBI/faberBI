@@ -27,7 +27,7 @@ class DataScientist:
         self.name = "Fabrizio Di Sciorio, PhD"
         self.role = "Senior AI Data Scientist @ FiberCop"
         self.location = "Rome, Italy 🇮🇹"
-        self.focus = ["AI & ML", "Quant Finance", "Energy Risk", "Monte Carlo", "Explainable AI"]
+        self.focus = ["AI & ML", "Quant Finance", "ML Forecast", "Overfitting"]
         self.currently_exploring = "Long Memory Processes & Fractal Finance"
 
     def say_hi(self):
@@ -62,12 +62,12 @@ class DataScientist:
 </td>
 <td valign="top" width="33%">
 
-**⚡ Energy Analytics**
-- Electricity Price Forecasting
-- Energy Hedging Strategies
-- EBITDA Sensitivity Analysis
-- Scenario Generation
-- Long-Term Forecasting
+**📈 ML Forecasting & Diagnostics**
+- Time Series Forecasting
+- Multi-Horizon & Quantile Forecasts
+- Overfitting Detection
+- Model Diagnostics
+- Generalization Analysis
 
 </td>
 </tr>
