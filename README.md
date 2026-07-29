@@ -17,7 +17,7 @@
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,100:2563EB&height=3" />
 
 ### 👨‍💻 About Me
 
@@ -34,7 +34,16 @@ class DataScientist:
         print("Thanks for stopping by — let's build something data-driven!")
 ```
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,100:2563EB&height=3" />
+
+### 🌱 Currently Exploring
+
+- 🔭 Refining AVM ensemble architectures for real estate valuation
+- 📊 Overfitting diagnostics for gradient boosting models (LambdaGuard)
+- ⏱️ Multi-horizon time series forecasting techniques
+- 📖 Long Memory Processes & Fractal Finance research
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,100:2563EB&height=3" />
 
 ### 🚀 Areas of Expertise
 
@@ -73,7 +82,7 @@ class DataScientist:
 </tr>
 </table>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,100:2563EB&height=3" />
 
 ### 🛠️ Technology Stack
 
@@ -96,7 +105,17 @@ class DataScientist:
 
 **Core Libraries:** `Pandas` `NumPy` `Polars` `LightGBM` `XGBoost` `CatBoost` `Optuna` `Statsmodels` `Plotly` `Streamlit`
 
----
+<br>
+
+**Proficiency**
+
+`Python`      `██████████████████░░` 90%
+`Gradient Boosting (LGBM/XGB/CatBoost)` `██████████████████░░` 90%
+`Time Series Forecasting` `█████████████████░░░` 85%
+`R`           `██████████████░░░░░░` 70%
+`SQL`         `████████████████░░░░` 80%
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,100:2563EB&height=3" />
 
 ### 💼 Professional Experience
 
@@ -114,7 +133,7 @@ class DataScientist:
         Volatility Modeling · Financial Time Series Analysis
 ```
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,100:2563EB&height=3" />
 
 ### 🏆 Featured Projects
 
@@ -167,13 +186,13 @@ Copula-based methodology estimating economic damages from floods, landslides, se
 </tr>
 </table>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,100:2563EB&height=3" />
 
 ### 🔬 Research Interests
 
 `Financial Market Efficiency` `Long Memory Processes` `Fractional Brownian Motion` `Fractal Finance` `Hurst Exponent` `Time Series Forecasting` `Complex Systems`
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,100:2563EB&height=3" />
 
 ### 🎓 Education
 
@@ -183,7 +202,7 @@ Copula-based methodology estimating economic damages from floods, landslides, se
 **MIT Professional Education** — Applied Data Science Program
 > Final Project: *Facial Emotion Detection using CNNs and Vision Transformers*
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,100:2563EB&height=3" />
 
 ### 📚 Selected Publications
 
@@ -193,7 +212,7 @@ Copula-based methodology estimating economic damages from floods, landslides, se
 
 📖 [Full publication list on Google Scholar →](https://scholar.google.com/citations?user=KrCXe-4AAAAJ)
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,100:2563EB&height=3" />
 
 ### 📈 GitHub Analytics
 
@@ -205,7 +224,15 @@ Copula-based methodology estimating economic damages from floods, landslides, se
 <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=faberBI&theme=dark" />
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,100:2563EB&height=3" />
+
+### 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/faberBI/faberBI/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,100:2563EB&height=3" />
 
 <div align="center">
 
