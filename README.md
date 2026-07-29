@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,50:2563EB,100:0A192F&height=280&section=header&text=Fabrizio%20Di%20Sciorio,%20PhD&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20AI%20Data%20Scientist%20%7C%20Quantitative%20Researcher&descAlignY=52&descSize=18" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=2563EB&center=true&vCenter=true&width=650&lines=Turning+data+into+decisions...;Modeling+risk+%7C+Forecasting+markets;AI+%2B+Quant+Finance+%2B+Energy+Analytics;PhD+in+Quantitative+Finance+%26+Econometrics" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=2563EB&center=true&vCenter=true&width=650&lines=Turning+data+into+decisions...;Forecasting+%7C+Prediction+%7C+Overfitting+Diagnostics;AI+%2B+Quant+Finance+%2B+Real+Estate+AVM;PhD+in+Quantitative+Finance+%26+Econometrics" alt="Typing SVG" />
 </a>
 
 <br>
@@ -27,7 +27,7 @@ class DataScientist:
         self.name = "Fabrizio Di Sciorio, PhD"
         self.role = "Senior AI Data Scientist @ FiberCop"
         self.location = "Rome, Italy 🇮🇹"
-        self.focus = ["AI & ML", "Quant Finance", "ML Forecast", "Overfitting"]
+        self.focus = ["AI & ML", "Real Estate AVM", "ML Forecast", "Overfitting"]
         self.currently_exploring = "Long Memory Processes & Fractal Finance"
 
     def say_hi(self):
@@ -52,12 +52,12 @@ class DataScientist:
 </td>
 <td valign="top" width="33%">
 
-**📊 Quantitative Finance**
-- Financial Econometrics
-- Market Inefficiency Analysis
-- Monte Carlo Simulation
-- Stochastic Processes
-- Copula Models
+**🏠 Real Estate AVM & Predictive Analytics**
+- Automated Valuation Models (AVM)
+- Ensemble Stacking for Property Pricing
+- Collateral Revaluation Models
+- Feature Engineering for Tabular Data
+- Business Intelligence & Reporting
 
 </td>
 <td valign="top" width="33%">
@@ -102,7 +102,7 @@ class DataScientist:
 
 ```text
 2025 ─● FiberCop — Senior AI Data Scientist
-        Energy Risk Modeling · EBITDA Analytics · Credit Risk · Monte Carlo · Copulas
+        AI Forecasting Systems · EBITDA Analytics · Credit Risk Assessment · Monte Carlo
 
 2020 ─● Prelios — Data Scientist
         Ensemble AVM · Real Estate Analytics · Collateral Monitoring
@@ -130,10 +130,10 @@ Detects the exact moment when boosting algorithms stop learning signal and start
 </td>
 <td width="50%">
 
-**⚡ Energy Risk Analytics Platform**
-Multi-horizon forecasting, quantile predictions, regime detection, explainable AI, strategic hedging.
+**🏠 Real Estate AVM Engine**
+Ensemble stacking model for residential property valuation (80–85% accuracy), with dynamic collateral revaluation at micro-territorial level.
 
-`Forecasting` `XAI` `Time Series`
+`AVM` `Ensemble Learning` `Real Estate`
 
 </td>
 </tr>
@@ -143,15 +143,15 @@ Multi-horizon forecasting, quantile predictions, regime detection, explainable A
 **[🎲 CAPEX Monte Carlo Risk Engine](https://github.com/faberBI/Capex_Monte-Carlo)**
 Probabilistic framework for investment risk: schedule, cost, sensitivity & scenario analysis.
 
-`Monte Carlo` `Risk Modeling`
+`Monte Carlo` `Scenario Simulation`
 
 </td>
 <td width="50%">
 
-**[📉 Financial Risk Modeling](https://github.com/faberBI/Finedu-webapp)**
+**[📉 Portfolio Simulation Engine](https://github.com/faberBI/Finedu-webapp)**
 Monte Carlo engine for portfolio analysis and investment simulations.
 
-`Portfolio Risk` `Simulation`
+`Monte Carlo` `Simulation`
 
 </td>
 </tr>
@@ -211,8 +211,9 @@ Copula-based methodology estimating economic damages from floods, landslides, se
 
 ### 📬 Let's Connect
 
-Interested in **AI**, **Quantitative Finance**, **Overfitting**, **Forecasting and Prediction** or **Applied Research**? Let's talk.
+Interested in **AI**, **Predictive Modeling**, **Real Estate Analytics** or **Applied Research**? Let's talk.
 
+**Building AI-driven forecasting and predictive models at the intersection of Data Science and Real-World Decision Making.**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,50:2563EB,100:0A192F&height=150&section=footer" />
 
