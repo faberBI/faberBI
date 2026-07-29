@@ -29,7 +29,7 @@ class DataScientist:
         self.location = "Rome, Italy 🇮🇹"
         self.focus = ["AI & ML", "Real Estate AVM", "ML Forecast", "Overfitting"]
         self.currently_exploring = "Long Memory Processes & Fractal Finance"
-        self.off_duty = ["Cycling 🚴", "Triathlon / Ironman 🏊‍♂️🚴‍♂️🏃"]
+        self.off_duty = ["Cycling (eSRT Team - indoor) 🖥️", "Cycling (Di Sciorio Cycling Team - road) 🛣️", "Triathlon / Ironman 🏊‍♂️🚴‍♂️🏃"]
 
     def say_hi(self):
         print("Thanks for stopping by — let's build something data-driven!")
@@ -50,13 +50,17 @@ class DataScientist:
 
 When I'm not training models, I'm training legs and lungs.
 
-🚴 **Cycling** — long rides, climbs, chasing watts and KOMs
-🏊‍♂️🚴‍♂️🏃 **Triathlon / Ironman** — swim, bike, run, repeat
-🧠 Same mindset as data science: pace yourself, trust the data (heart rate, power, splits), avoid overfitting your training plan to one good race
+🚴 **Cycling** — road & e-sports
+- 🖥️ **Indoor / e-Racing** — riding for **eSRT Team**
+- 🛣️ **Road** — riding for **Di Sciorio Cycling Team**
 
-![Cycling](https://img.shields.io/badge/Cycling-FC4C02?style=for-the-badge&logo=strava&logoColor=white)
-![Triathlon](https://img.shields.io/badge/Triathlon-000000?style=for-the-badge&logo=ironman&logoColor=white)
-![Endurance](https://img.shields.io/badge/Endurance_Athlete-2563EB?style=for-the-badge&logo=runkeeper&logoColor=white)
+🏊‍♂️🚴‍♂️🏃 **Triathlon / Ironman** — swim, bike, run, repeat
+
+🧠 Same mindset as data science: pace yourself, trust the data (power, heart rate, splits), avoid overfitting your training plan to one good race
+
+[![Strava](https://img.shields.io/badge/Strava-FC4C02?style=for-the-badge&logo=strava&logoColor=white)](https://www.strava.com/athletes/139441862)
+[![Zwift](https://img.shields.io/badge/ZwiftPower-FF6600?style=for-the-badge&logo=zwift&logoColor=white)](https://zwiftpower.com/profile.php?z=3626533)
+[![MyWhoosh](https://img.shields.io/badge/MyWhoosh-00A3E0?style=for-the-badge&logoColor=white)](https://event.mywhoosh.com/user/activities#profile)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,100:2563EB&height=3" />
 
@@ -124,11 +128,11 @@ When I'm not training models, I'm training legs and lungs.
 
 **Proficiency**
 
-`Python`      `██████████████████░░` 80%
+`Python`      `██████████████████░░` 90%
 `Gradient Boosting (LGBM/XGB/CatBoost)` `██████████████████░░` 90%
 `Time Series Forecasting` `█████████████████░░░` 85%
-`R`           `██████████████░░░░░░` 90%
-`SQL`         `████████████████░░░░` 50%
+`R`           `██████████████░░░░░░` 70%
+`SQL`         `████████████████░░░░` 80%
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,100:2563EB&height=3" />
 
