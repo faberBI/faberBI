@@ -11,9 +11,9 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fabrizio.disciorio@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabriziodisciorio/)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=KrCXe-4AAAAJ&hl=it)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FabrizioDiSciorio)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/faberBI)
 
-![Profile Views](https://komarev.com/ghpvc/?username=FabrizioDiSciorio&color=2563EB&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=faberBI&color=2563EB&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -198,12 +198,11 @@ Copula-based methodology estimating economic damages from floods, landslides, se
 ### 📈 GitHub Analytics
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=FabrizioDiSciorio&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabrizioDiSciorio&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=FabrizioDiSciorio&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=FabrizioDiSciorio&theme=algolia&no-frame=true&row=1" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faberBI&theme=dark" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=faberBI&theme=dark" />
+<br>
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=faberBI&theme=dark" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=faberBI&theme=dark" />
 </div>
 
 ---
@@ -212,7 +211,8 @@ Copula-based methodology estimating economic damages from floods, landslides, se
 
 ### 📬 Let's Connect
 
-Interested in **AI**, **Quantitative Finance**, **Overfitting**, **Forecast & Prediction** or **Applied Research**? Let's talk.
+Interested in **AI**, **Quantitative Finance**, **Overfitting**, **Forecasting and Prediction** or **Applied Research**? Let's talk.
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,50:2563EB,100:0A192F&height=150&section=footer" />
 
